@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on Machine Learning on HEAs catalyst
 - 📫 How to reach me: xinlei.leo@outlook.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 👨‍🎓 Bachelor: Central South University
+- 👨🏻‍🔬 Master: University of Science and Technology Beijing
 
 <!---
 stone-snake/stone-snake is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
