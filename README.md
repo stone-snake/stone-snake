@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @stone-snake
+- 👋 Hi, I’m @PhD Stone
 - 👀 I’m interested in Materials Science and Machine Learning
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on Machine Learning on HEAs catalyst
